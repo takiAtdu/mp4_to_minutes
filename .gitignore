@@ -1,0 +1,12 @@
+.venv
+output
+.env
+mov_to_mp4.py
+mp3_to_transcription.py
+mp4_to_mp3.py
+sample_long_summary.txt
+sample_long.mp3
+sample_long.mp4
+sample.mp3
+sample.mp4
+split_audio.py
